@@ -1,2 +1,2 @@
 #CybersecurityChatbot 
-A simple c3 console application to assist with cybersecurity questions.
+A simple C# console application to assist with cybersecurity questions.
